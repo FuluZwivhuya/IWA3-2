@@ -3,4 +3,4 @@ import {roleB } from './johannes';
 import {roleC } from './alex';
 
 
-console.log('Roles:',roleA,roleB,roleC);
+console.log('Roles:'+ roleA + roleB + roleC );

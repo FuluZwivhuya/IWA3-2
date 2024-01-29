@@ -1,5 +1,5 @@
 const firstname = "Johannes"
-const  surname = "Potgieter"
+const surname = "Potgieter"
 export const roleB = "Intern"
 
 const display= firstname + " " + surname + " (" + roleB + ")"
